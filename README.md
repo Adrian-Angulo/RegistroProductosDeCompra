@@ -1,16 +1,8 @@
-# registro_de_productos
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# RegistroProductosDeCompra
+app movil para registrar productos de compra para la remesa del mes o de la semana, para llevar un control de lo que se gasta cada mes y los precios de los productos para tener una estimacion del precio.
+## funcionalidad principal
+Registrar producto: nombre, precio, foto.
+Ver lista de productos registrados.
+Crear lista de compra: seleccionar productos existentes y generar una lista guardada.
+Persistencia local (funciona sin internet).
+ 
